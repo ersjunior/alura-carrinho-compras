@@ -1,7 +1,7 @@
 <h1>AluGames - Praticando lógica com desafios</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Neste projeto, praticaremos lógica de programação com JavaScript.<br><br>O Desafio era fazer com que a quantidade de intens sempre volte para 0 após a inclusão de um novo item, que o carrinho de compra seja atualizado após a inclusão do novo item, que some os valores subtotais de todos os itens inclusos e que os itens também fossem atualizados com a soma do valor unitário pela quantidade de itens.<br><br> Link do projeto: </p>
+<p>Neste projeto, praticaremos lógica de programação com JavaScript.<br><br>O Desafio era fazer com que a quantidade de intens sempre volte para 0 após a inclusão de um novo item, que o carrinho de compra seja atualizado após a inclusão do novo item, que some os valores subtotais de todos os itens inclusos e que os itens também fossem atualizados com a soma do valor unitário pela quantidade de itens.<br><br> Link do projeto: https://alura-carrinho-compras.vercel.app/</p>
 
 ## 🚀 Tecnologias
 <div>
